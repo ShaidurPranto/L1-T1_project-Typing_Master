@@ -6,8 +6,6 @@ This is a very small and simple iGraphics project that allows user to test and i
 
 ## Demo
 
-Insert gif or link to demo
-
 https://youtu.be/0p0oQhL6dR4
 
 ## How to Run
